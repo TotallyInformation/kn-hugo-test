@@ -1,0 +1,3 @@
+[submodule "themes/twenty-sixteen"]
+	path = themes/twenty-sixteen
+	url = https://github.com/TotallyInformation/hugo-theme-twenty-sixteen.git
